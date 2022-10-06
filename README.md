@@ -3,3 +3,4 @@
 我仍然不知道，远程的概念
 采用gitblit做服务器
 采用bitbucket 测试
+还是采用gitea比较合适
