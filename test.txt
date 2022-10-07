@@ -1,1 +1,2 @@
 ddd
+这个RSA的public钥匙为什么可以在github用，但是在gitea就是不能用呢
